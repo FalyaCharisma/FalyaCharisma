@@ -13,7 +13,7 @@
    - Finalist of GEMASTIK XIV 2021 (ICT Business Development)
 
 ## Work Experience:
-#### 1. Perebit Badan Riset dan Inovasi Nasional | System Support Intern | WFH `Jul'2022 - Now`
+#### 1. Creative Media | Trainer IT & Programmer Web | Surabaya `Sep'2022 - Now`
 #### 2. Perumda Delta Tirta Sidoarjo | Student Intern | Sidoarjo `Jan'2022-'Feb'2022`
    - Create a website for customer complaints using PHP, HTML, CSS, and SQL. Participate in the software development life cycle, including analysis, design, development, implementation, and documentation.
 #### 3. Ocademy Official | Web Admin Intern | WFH `Nov'2021-'Jan'2022`
